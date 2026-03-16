@@ -1,8 +1,8 @@
-# WEB103 Project 3 - UnityGrid Plaza
+# WEB103 Project 3 - Stage Storm
 
 Submitted by: **Shivesh Gupta**
 
-About this web app: **UnityGrid Plaza is a locations-and-events app that lets users browse venues, filter events, and view event details with time remaining.**
+About this web app: **Stage Storm is a locations-and-events app that lets users browse venues, filter events, and view event details with time remaining.**
 
 Time spent: **10** hours
 
@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 - [x] An additional page shows all possible events
   - [x] Users can sort *or* filter events by location.
 - [x] Events display a countdown showing the time remaining before that event
-  - [ ] Events appear with different formatting when the event has passed (ex. negative time, indication the event has passed, crossed out, etc.).
+  - [x] Events appear with different formatting when the event has passed (ex. negative time, indication the event has passed, crossed out, etc.).
 
 The following **additional** features are implemented:
 
