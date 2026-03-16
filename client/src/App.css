@@ -1,9 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
 .app {
-    background: url('./assets/unitygrid.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
+}
+
+.website-name {
+    font-family: 'Concert One', cursive;
 }
 
 header {

@@ -1,23 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
 
-#root {
-    background: url('./assets/unitygrid.jpg');
+html, body {
+    min-height: 100%;
+    margin: 0;
+    background: url('./assets/stagestormgrid.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
     background-color: var(--secondary-color);
+}
+
+#root {
+    min-height: 100%;
     font-family: Nunito Sans, Verdana, sans-serif;
-    height: 100vh;
-    --main-color: rgb(217, 29, 242);
-    --secondary-color: rgb(3, 1, 64);
+    --main-color: rgb(15, 41, 91);
+    --secondary-color: rgb(4, 10, 26);
     --primary: var(--main-color);
-    --primary-hover: rgb(111, 28, 166);
-    --primary-focus: rgb(217, 29, 242);
+    --primary-hover: rgb(22, 63, 140);
+    --primary-focus: rgb(32, 86, 185);
     --secondary: var(--secondary-color);
-    --secondary-hover: rgb(4, 66, 191);
-    --secondary-focus: rgb(111, 28, 166);
+    --secondary-hover: rgb(10, 24, 60);
+    --secondary-focus: rgb(22, 63, 140);
     --h1-color: white;
     --h2-color: white;
     --h3-color: white;
@@ -36,7 +43,7 @@
 }
 
 #root h1 {
-    font-family: Rock Salt, cursive;
+    font-family: 'Archivo Black', sans-serif;
     font-size: 3em;
     font-weight: bold;
     text-shadow: 3px 3px 4px black;
