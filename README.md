@@ -52,6 +52,7 @@ Here's a walkthrough of implemented required features:
 
 <!-- TODO: Replace with your walkthrough GIF -->
 <img src='https://i.imgur.com/a/web-103-unit-3-NzovHcR.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+- https://imgur.com/a/web-103-unit-3-NzovHcR
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... Imgur
